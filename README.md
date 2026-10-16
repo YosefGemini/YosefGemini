@@ -1,4 +1,5 @@
-# Hi there, I'm Jose Enrique Jimenez! the big Yosef Gemini!! 👋
+# Hi there 👋, 
+# I'm Jose Enrique Jimenez! the big Yosef Gemini!! 
 
 ### **Computer Science Engineer & Tech Lead**
 *Passionate about building software solutions*
