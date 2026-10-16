@@ -34,6 +34,14 @@
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-jimenez-8782a8239)
-- ✉️ **Email:** josejimenezcarpediem@gmail.com
-- 🌐 **Portfolio:** [https://yosefgemini-portafolio.vercel.app](https://yosefgemini-portafolio.vercel.app)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jose-jimenez-8782a8239" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josejimenezcarpediem@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yosefgemini-portafolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</p>
