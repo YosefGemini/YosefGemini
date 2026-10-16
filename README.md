@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+![Stats](https://github-readme-stats.vercel.app/api?username=yosefgemini&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefgemini&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 ### 📫 Connect with Me
 
