@@ -30,8 +30,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=yosefgemini&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosefgemini&theme=tokyonight&hide_border=false)
-
 ### 📫 Connect with Me
 
 <p align="left">
